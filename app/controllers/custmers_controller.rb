@@ -1,0 +1,2 @@
+class CustmersController < ApplicationController
+end
