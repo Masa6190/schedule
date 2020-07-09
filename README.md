@@ -16,7 +16,10 @@ building
 phone_number
 kaigodo
 ninnteibi
-ninnteikikan
+ninnteikikanstart_year
+ninnteikikanstart_month
+ninnteikikanend_year
+ninnteikikanend_month
 futannwariai
 
 ## helper
